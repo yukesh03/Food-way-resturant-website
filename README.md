@@ -39,7 +39,7 @@ To view the website locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-way-website.git
+   git clone https://github.com/yukesh03/food-way-website.git
 Navigate to the project directory:
 
 bash
